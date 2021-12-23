@@ -121,6 +121,9 @@ i{
 .post .post-title .m20{
     margin: 20px 30px;
 }
+.post .post-content p{
+    text-indent: 2em;
+}
 
 @media screen and (max-width: 960px) {
     .content .footer{
@@ -128,7 +131,7 @@ i{
         position: unset;
         margin-top: 20px;
     }
-    
+
     .page-top .information .back_btn li{
         padding-right: 15px;
     }
