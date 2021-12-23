@@ -118,7 +118,7 @@ i{
     display: none;
 }
 
-.m20{
+.post .post-title .m20{
     margin: 20px 30px;
 }
 
@@ -131,7 +131,7 @@ i{
     .page-top .information .back_btn li{
         padding-right: 15px;
     }
-    .m20{
+    .post .post-title .m20{
         margin: 20px;
     }
 }
