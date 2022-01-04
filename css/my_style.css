@@ -124,6 +124,22 @@ i{
 .post .post-content p{
     text-indent: 2em;
 }
+.post .post-content table{ 
+    width: 100%;
+    border-width: 1px;
+    border-spacing: 0;
+    border-style: solid;
+}
+.post .post-content th{ 
+    border-width: 1px;
+    border-spacing: 0;
+    border-style: solid;
+}
+.post .post-content td{ 
+    border-width: 1px;
+    border-spacing: 0;
+    border-style: solid;
+}
 
 @media screen and (max-width: 960px) {
     .content .footer{
