@@ -12,6 +12,10 @@
   /**display: none**/
 }
 
+.post-content img{
+  width: 80%;
+}
+
 .post-content .tip:before {
   position: absolute;
   top: 14px;
