@@ -12,10 +12,6 @@
   /**display: none**/
 }
 
-.post-content img{
-  width: 80%;
-}
-
 .post-content .tip:before {
   position: absolute;
   top: 14px;
@@ -36,6 +32,10 @@
 .content > .post > .post-content > p {
   word-wrap: break-word;
   word-break: break-all;
+}
+
+.post .post-content img[alt="照片"]{
+  width: 80%;
 }
 
 #ds-thread,#disqus_thread,#cloud-tie-wrapper {
